@@ -1,2 +1,4 @@
 Hello world
+
+This is to solve merge conflict from Repo
 Doing from git local machine
